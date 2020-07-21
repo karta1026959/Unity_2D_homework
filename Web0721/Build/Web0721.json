@@ -1,0 +1,16 @@
+{
+"companyName": "Yang",
+"productName": "Unity_2D_homework",
+"productVersion": "0.1",
+"dataUrl": "Web0721.data.unityweb",
+"wasmCodeUrl": "Web0721.wasm.code.unityweb",
+"wasmFrameworkUrl": "Web0721.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#800725",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.4f1"
+}
