@@ -14,16 +14,8 @@ ScriptsOnlyBuild:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
     - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
-    UnityEngine.UI.dll:
-    - UnityEngine.EventSystems.EventSystem
-    - UnityEngine.EventSystems.StandaloneInputModule
-    - UnityEngine.UI.Button
-    - UnityEngine.UI.CanvasScaler
-    - UnityEngine.UI.GraphicRaycaster
-    - UnityEngine.UI.Image
-    - UnityEngine.UI.Text
   sceneClasses:
-    "Assets/\u7DF4\u7FD2\u5834\u666F.unity":
+    "Assets/\u7279\u6548\u5834\u666F.unity":
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -36,49 +28,23 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
-    - Class: 74
-      Script: {instanceID: 0}
     - Class: 81
-      Script: {instanceID: 0}
-    - Class: 91
-      Script: {instanceID: 0}
-    - Class: 95
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
       Script: {instanceID: 592}
-    - Class: 114
-      Script: {instanceID: 11172}
-    - Class: 114
-      Script: {instanceID: 11460}
-    - Class: 114
-      Script: {instanceID: 11514}
-    - Class: 114
-      Script: {instanceID: 12176}
-    - Class: 114
-      Script: {instanceID: 12874}
-    - Class: 114
-      Script: {instanceID: 13634}
-    - Class: 114
-      Script: {instanceID: 14244}
     - Class: 115
-      Script: {instanceID: 0}
-    - Class: 128
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
       Script: {instanceID: 0}
-    - Class: 212
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
       Script: {instanceID: 0}
     - Class: 213
-      Script: {instanceID: 0}
-    - Class: 222
-      Script: {instanceID: 0}
-    - Class: 223
-      Script: {instanceID: 0}
-    - Class: 224
       Script: {instanceID: 0}
     - Class: 156049354
       Script: {instanceID: 0}
@@ -575,5 +541,5 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   platform: 20
   scenePathNames:
-  - "Assets/\u7DF4\u7FD2\u5834\u666F.unity"
-  playerPath: C:/Users/karta/Desktop/Unity/homework/Unity_2D_homework/Web0721
+  - "Assets/\u7279\u6548\u5834\u666F.unity"
+  playerPath: C:/Users/karta/Desktop/Unity/homework/Unity_2D_homework/Web0726
